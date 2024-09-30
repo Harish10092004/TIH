@@ -995,11 +995,16 @@ section,
   list-style: none;
   padding: 0;
 }
+.about .section-title p{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
 
+}
 .about p{
   text-align: justify;
 }
-.about  ul li
+.about  ul li{
   text-align: justify;
 }
 .about ul li {
@@ -2713,6 +2718,9 @@ end of testimonials Section
 
 .outcomecss .tranding-slider-control .swiper-pagination .swiper-pagination-bullet-active {
   background: var(--primary);
+}
+.outcomecss .container{
+  padding-top: 30px;
 }
  /*Outcome Style Complete*/
 

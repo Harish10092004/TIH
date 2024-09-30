@@ -1,0 +1,120 @@
+  {
+    name: "Vaishnavi",
+    dept: "Computer Science and Business Systems",
+    imgsrc: "assets/img/tih2024/Vaishnavi.P.A.jpeg",
+    social: {
+      github: "https://github.com/VAISHNAVI30101",
+      linkedin: "https://www.linkedin.com/in/vaishnavi-vaishnavi-48520425a/"
+    },
+    batch: "2024"
+  },
+  {
+    name: "Bhuvaneshwari C",
+    dept: "Information Technology",
+    imgsrc: "assets/img/tih2024/BHUVANESHWARI C.jpg",
+    social: {
+      github: "https://github.com/Bhuvaneshwari0405",
+      linkedin: "https://www.linkedin.com/in/bhuvaneshwari-chinnadurai-50665a258"
+    },
+    batch: "2024"
+  },
+  {
+    name: "Arithra G",
+    dept: "Computer Science and Business Systems",
+    imgsrc: "assets/img/tih2024/Arithra. G",
+    social: {
+      github: "https://github.com/arithra04",
+      linkedin: "http://www.linkedin.com/in/arithra-gugan-121b26259"
+    },
+    batch: "2024"
+  },
+  {
+    name: "Dhanvarshini R",
+    dept: "Computer Science and Engineering",
+    imgsrc: "assets/img/tih2024/Dhanvarshini.jpg",
+    social: {
+      github: "https://github.com/dhanvarshini22",
+      linkedin: "https://www.linkedin.com/in/dhanvarshini-r-31467025a"
+    },
+    batch: "2024"
+  },
+  {
+    name: "ANJANADEVI T",
+    dept: "Computer Science and Engineering",
+    imgsrc: "assets/img/tih2024/Anjanadevi T.jpg",
+    social: {
+      github: "https://github.com/Anjanathangavel",
+      linkedin: "https://www.linkedin.com/in/anjanadevi-t-3b067225a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    batch: "2024"
+  },
+  {
+    name: "AGARSHANA S",
+    dept: "Computer Science and Engineering",
+    imgsrc: "assets/img/tih2024/AGARSHANA S -CSE.jpg",
+    social: {
+      github: "https://github.com/AgarshanaS",
+      linkedin: "https://www.linkedin.com/in/agarshana-s-7b566a25a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    batch: "2024"
+  },
+  {
+    name: "KEERTHIKA S",
+    dept: "Computer Science and Engineering",
+    imgsrc: "assets/img/tih2024/Keerthika.jpg",
+    social: {
+      github: "https://github.com/Keerthimani29",
+      linkedin: "https://www.linkedin.com/in/keerthika-s-39514325a"
+    },
+    batch: "2024"
+  },
+  {
+    name: "FARZHANA R",
+    dept: "Electronics and Communication Engineering",
+    imgsrc: "assets/img/tih2024/Farzhana. R.jpg",
+    social: {
+      github: "https://github.com/Farzhanarajkanna",
+      linkedin: "https://www.linkedin.com/in/farzhana-rajkanna-95514225a/"
+    },
+    batch: "2024"
+  },
+  {
+    name: "Prasath P",
+    dept: "Master of Computer Applications",
+    imgsrc: "assets/img/team/team-4.jpg",
+    social: {
+      github: "https://github.com/Prasathincredible",
+      linkedin: "https://www.linkedin.com/in/prasath-pachamalai-7074332a3"
+    },
+    batch: "2024"
+  },
+  {
+    name: "Sakthi T S",
+    dept: "Master of Computer Applications",
+    imgsrc: "assets/img/tih2024/SAKTHI.jpg",
+    social: {
+      github: "https://github.com/SAKTHI-TS",
+      linkedin: "http://www.linkedin.com/in/sakthi-t-s-26448725a"
+    },
+    batch: "2024"
+  },
+  {
+    name: "Jayawardhini V",
+    dept: "Master of Computer Applications",
+    imgsrc: "assets/img/tih2024/Jayawardhini V.jpg",
+    social: {
+      github: "https://github.com/Jayawardhini",
+      linkedin: "https://www.linkedin.com/in/jayawardhini-v-3b2335259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    batch: "2024"
+  },
+  {
+    name: "Atchaya S",
+    dept: "Master of Computer Applications",
+    imgsrc: "assets/img/tih2024/Atchaya S.jpeg",
+    social: {
+      github: "https://github.com/Atchaya12123",
+      linkedin: "https://www.linkedin.com/in/atchaya-s-bb3912261/"
+    },
+    batch: "2024"
+  },
